@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+.hello{
+    color: blue;
+
+}
+.half{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.half img{
+    width: 80%;
+
+}
+ 
