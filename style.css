@@ -1,9 +1,17 @@
 body{
+    margin: 0px;
     font-family: 'Open Sans', sans-serif;
 }
 h1{
     font-size: 50px;
 
+
+}
+h3{
+    font-size: 40px;
+}
+.way{
+    font-size: 25px;
 }
 .hello{
     color: blue;
@@ -11,7 +19,7 @@ h1{
 }
 .half{
     width: 30%;
-    float: left;
+  
     margin-left: 5%;
     padding: 2%;
 
@@ -20,4 +28,34 @@ h1{
     width: 80%;
 
 }
- 
+.banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.section{
+    
+    padding-bottom: 100px;
+
+    
+}
+ .button{
+     text-align: none;
+     background-color: rgb(175, 158, 3);
+     padding: 10px 20px;
+     border-radius: 5px;
+     color: cornsilk;
+     font-size: 30px;
+
+ }
+
+ .resume{
+     width: 100px;
+     height: 40px;
+     font-size: 30px;
+     
+    }
+    .bangla{
+        font-size: 40px;
+        padding-right: 20px;
+    }
